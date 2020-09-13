@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-```const readMePlease = {
+ const readMePlease = {
   greetings: "stranger 👋",
   iAm: "Marcos Aurélio",
   usually: "building things",
   frameworks: "React",
   Languages: ["JavaScript", "TypeScript"]
-
-};```
+}
