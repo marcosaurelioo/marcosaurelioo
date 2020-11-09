@@ -8,7 +8,7 @@
      iAm: "Marcos Aurélio",
      usually: "building things",
      frameworks: "React",
-     experience: ["React.JS","JavaScript", "TypeScript", "Next-js"]
+     experience: ["React.JS", "JavaScript", "TypeScript", "Next-js"]
 }
 
 ```
