@@ -3,12 +3,11 @@
  ```js
  
  const readMePlease = {
-     greetings: "stranger 👋",
-     who: "Front-end developer",
+     greetings: "dude 👋",
+     who: "Frontend developer",
      iAm: "Marcos Aurélio",
      usually: "building things",
-     frameworks: "React",
-     experience: ["React.JS","JavaScript", "TypeScript", "Next-js"]
+     experience: ["React","JavaScript", "TypeScript", "Next"]
 }
 
 ```
