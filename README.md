@@ -3,7 +3,7 @@
  ```js
  
  const readMePlease = {
-     greetings: "dude 👋",
+     greetings: "Hey there 👋",
      who: "Frontend developer",
      iAm: "Marcos Aurélio",
      usually: "building things",
@@ -11,3 +11,5 @@
 }
 
 ```
+
+![](https://komarev.com/ghpvc/?username=Maark007)
