@@ -11,5 +11,3 @@
 }
 
 ```
-
-![](https://komarev.com/ghpvc/?username=Maark007)
