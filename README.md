@@ -8,7 +8,7 @@
      iAm: "Marcos Aurélio",
      usually: "building things",
      website: aurelian.dev,
-     experience: ["React","JavaScript", "TypeScript", "Next", "node", "Coverage/Unit Tests"]
+     experience: ["React","JavaScript", "TypeScript", "Next", "Node", "Coverage/Unit Tests"]
 }
 
 ```
