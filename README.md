@@ -7,7 +7,8 @@
      who: "Frontend developer",
      iAm: "Marcos Aurélio",
      usually: "building things",
-     experience: ["React","JavaScript", "TypeScript", "Next"]
+     website: aurelian.dev,
+     experience: ["React","JavaScript", "TypeScript", "Next", "node", "Coverage/Unit Tests"]
 }
 
 ```
