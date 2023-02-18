@@ -8,7 +8,9 @@
      iAm: "Marcos Aurélio",
      usually: "building things",
      website: aurelian.dev,
-     experience: ["React","JavaScript", "TypeScript", "Next", "Node", "Coverage/Unit Tests"]
+     experience: ["React","JavaScript", "TypeScript", "Next", "Node", "Coverage/Unit Tests"],
+     Discord: Maark#3536
 }
+
 
 ```
