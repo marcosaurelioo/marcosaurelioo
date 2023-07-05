@@ -4,8 +4,8 @@
  
  const readMePlease = {
      greetings: "Hey there 👋",
-     doing: "TypeScript, FullStack",
-     Discord: Maark#3536
+     doing: "Frontend Stuffs",
+     Discord: marcosaureliolelo
 }
 
 ```
